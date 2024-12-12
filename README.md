@@ -1,2 +1,2 @@
-# meus-cursos
- Repositório destinado ao armazenamento de arquivos criados durantes meus cursos de tecnologia.
+# Meus Cursos
+Repositório criado a fim de armazenar arquivos criados durante cursos
